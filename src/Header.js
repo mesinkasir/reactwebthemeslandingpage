@@ -2,9 +2,9 @@ import React from "react";
 import Endas from "./slug/Endas";
 
 const Header = () => (
-  <asik>
+  <div>
     <Endas />
-  </asik>
+  </div>
 );
 
 export default Header;
