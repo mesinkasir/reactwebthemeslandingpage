@@ -1,6 +1,8 @@
 # React Website themes template free download
 
-Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/)
+Test demo [https://laravelapp.vercel.app/](https://laravelapp.vercel.app/)
+
+Dark Mode Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/)
 
 Documentation installation and live source code 
 [https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html](https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html)
@@ -63,7 +65,9 @@ How to install :
 
 -----------------------------------------------------------
 
-Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/)
+Test demo [https://laravelapp.vercel.app/](https://laravelapp.vercel.app/) 
+
+Dark mode Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/)
 
 Documentation installation and live source code 
 [https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html](https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html)
