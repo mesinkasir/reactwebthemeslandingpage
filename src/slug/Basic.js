@@ -4,7 +4,7 @@ const Basic = () => (
   <>
     <h2 className="p-1 bg-danger text-white">Basic</h2>
     <hr />
-    Lava Apps
+    Dexopos Apps
     <hr />
     Free domain .my.id
     <hr />
@@ -18,7 +18,9 @@ const Basic = () => (
     <hr />
     Layanan Konsultasi
     <hr />
-    Rp.1.085.600/<small>Years</small>
+    <strong>
+      Rp.568.400/<small>Years</small>
+    </strong>
   </>
 );
 

@@ -4,16 +4,14 @@ const Dashboard = () => (
   <div>
     <img
       className="img-fluid"
-      alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-mRHtn28_hsY/X0Xg_KTz99I/AAAAAAAALUo/6YwFQoOWUbwUfQAtEUqEfDjntx5rze__QCLcBGAsYHQ/s1349/Screenshot_2020-08-25%2BLAVA%2BLARAVEL%2BPOINT%2BOF%2BSALE%2BAPPS.png"
+      alt="aplikasi toko penjualan kasir terbaru"
+      src="https://1.bp.blogspot.com/-pQrmypXboLM/XvJpPsbIDxI/AAAAAAAAKVg/D4VDKFoN5kUlHMubEmY-TfIT9eLm4oLAACK4BGAsYHg/s1366/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2B%25283%2529.png"
     />
     <p>
-      Setelah login pada <a href="/">aplikasi</a> selanjutnya anda akan
-      mengakses halaman utama dashboard dari lava web apps ini , pada dashboard
-      ini akan mendisplay income hari ini, grafik penjualan dan berbagai fitur
-      yang bisa digunakan dalam mencatat pembukuan hingga bertransaksi baik
-      melakukan PO pesanan pembelian penjualan maupun cek laporan laporan
-      details.
+      Dashboard menu fitur untuk beraktifitas setelah login dengan hadirnya
+      shortcut menu dalam melakukan dan handling berbagai pekerjaan untuk
+      digunakan. master data - grup produk - produk jual - penjualan kasir - dan
+      laporan income profit details.
     </p>
   </div>
 );

@@ -10,8 +10,9 @@ const Kepala = () => (
       </strong>
     </h1>
     <h3>
-      Pelajari kemampuan lava web app dalam bekerja untuk penjualan grosir dan
-      eceran hingga laporan detail.
+      Saat nya beralih ke dexopos shop apps untuk masa depan terbaik, dan
+      pelajari bagaimana dexopos shop apps ini bekerja dalam menunjang usaha dan
+      bisnis mu.
     </h3>
   </div>
 );

@@ -1,20 +1,30 @@
 import React from "react";
 const Produk = () => (
   <div>
+    <h1>
+      <strong>
+        <a href="/" className="text-danger">
+          Fitur Aplikasi Kasir Restoran rumah makan cafe
+        </a>
+      </strong>
+    </h1>
+    <h3>
+      Sempurnakan usaha kuliner restoran cafe rumah makan dan warung depot
+      dengan menggunakan dexopos resto web app untuk solusi terbaik usaha
+      kuliner.
+    </h3>
     <img
       className="img-fluid"
-      alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-arXQGOFT5DA/X0Xg9lS8lNI/AAAAAAAALUM/RL7Gr4cu7GI42kpsqbjRjq9hdKj_LjuNACLcBGAsYHQ/s1366/Screenshot_2020-08-25%2BLAVA%2BLARAVEL%2BPOINT%2BOF%2BSALE%2BAPPS%25283%2529.png"
+      alt="aplikasi restoran cafe rumah makan mesin kasir online"
+      src="https://1.bp.blogspot.com/-rI0ugAPI7zI/Xsa9V3wqQiI/AAAAAAAAJgY/ELdVaGTDh8URx6G4ShSlC2ch9XKaSTICACK4BGAsYHg/TOUCHSCREEN3%2B-%2BCopy.jpg"
     />
     <p>
-      Dan tentunya setelah memasukan kategori dan grup produk maka kini dengan
-      mudah kita dapat memasukan data produk produk yang akan kita jual,
-      selanjutnya klik pada menu produk dan masukan data sesuai dengan input
-      yang tersedia. pilih kategori grup produk, scan kode barcode jika anda
-      menggunakan barcode mode, masukan nama produk , cost harga modal dari
-      produk , harga jual retail , harga jual grosir , profit secara otomatis
-      akan dikalkulasi berdasarkan dari selisih harga jual dan harga beli,
-      selanjutnya input stok yang tersedia dan simpan data.
+      Pelajari bagaimana dexopos resto version apps ini bekerja dalam menunjang
+      bisnis kuliner secara modern dan real time online. Dilengkapi dengan
+      proteksi untuk menjaga kemanan aplikasi via username dan password dalam
+      bekerja, keamanan berlapis mulai dari apliaksi , database , dan host
+      dengan dukungan technology letsencrypt maupun cloudflare menyempurnakan
+      kenyamanan akan keamanan pengguna dalam berkerja pada apps ini.
     </p>
   </div>
 );

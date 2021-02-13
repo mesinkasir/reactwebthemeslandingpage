@@ -5,10 +5,12 @@ const Mobile = () => (
       <iframe
         title="aplikasi kasir toko grosir dan eceran"
         className="embed-responsive-item"
-        src="https://www.youtube.com/embed/EaGajIn8yrU"
+        src="https://www.youtube.com/embed/1PWUy4woxSM"
         allowFullScreen
       />
     </div>
+    Mobile apps demo
+    <hr />
   </div>
 );
 

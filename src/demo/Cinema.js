@@ -4,9 +4,9 @@ const Cinema = () => (
     <div className="col-12 col-md-12 p-3 text-center">
       <div className="embed-responsive embed-responsive-16by9 shadow rounded">
         <iframe
-          title="aplikasi kasir toko grosir dan eceran"
+          title="aplikasi kasir toko dan restoran cafe"
           className="embed-responsive-item"
-          src="https://www.youtube.com/embed/sYlR11vcNew"
+          src="https://www.youtube.com/embed/yoWS8tc1CeY"
           allowFullScreen
         />
       </div>

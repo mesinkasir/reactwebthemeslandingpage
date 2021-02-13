@@ -4,14 +4,15 @@ const Kategori = () => (
     <img
       className="img-fluid"
       alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-MnTsHCAaF1w/X0Xg9YcjbZI/AAAAAAAALUI/8SSFtwS0Gu0uFzS6nRY7ubFiRR5uS7OaQCLcBGAsYHQ/s1366/Screenshot_2020-08-25%2BLAVA%2BLARAVEL%2BPOINT%2BOF%2BSALE%2BAPPS%25282%2529.png"
+      src="https://1.bp.blogspot.com/-8G-SQA_Xzpw/XvJpQPtEg6I/AAAAAAAAKVk/bRGMQzHvGQIIIxbbXLbhWOT0iJM_aEE8gCK4BGAsYHg/s1349/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2B%25284%2529.png"
     />
     <p>
-      Setelah memasukan supplier kita dapat melanjutkan pengisian data pada
-      master kategori atau grup produk, fungsi dan tujuan adalah agar memudahkan
-      dalam pengelompokan produk dan membantu mempercepat pencarian produk
-      berdasarkan dengan grouping atau kategori untuk berbagai kebutuhan baik
-      penjualan cek stok pembelian dan lain nya.
+      Mudahkan segala kebutuhan dengan cek laporan dan transaksi dengan cepat,
+      pada fitur cek income omset dan profit ini kamu bisa memuasukan
+      berdasarkan tanggal awal dan akhir transaksi yang bisa kamu customise
+      sesuai dengan kebutuhan, dengan kemampuan ini memberikan mu kebebasan
+      untuk cek laporan berdasarkan per hari,mingguan maupun bulanan , hingga
+      tahunan dan customise sesuai kebutuhan mu dalam cek laporan.
     </p>
   </div>
 );

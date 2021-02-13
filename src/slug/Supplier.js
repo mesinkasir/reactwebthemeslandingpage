@@ -4,16 +4,22 @@ const Supplier = () => (
   <div>
     <img
       className="img-fluid"
-      alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-P0rDFD_Xiz0/X0Xg7Kb6QoI/AAAAAAAALTk/BVRnFUUGnC8gAJEzwERvdxG5pQV6WNcsQCLcBGAsYHQ/s1366/Screenshot_2020-08-25%2BLAVA%2BLARAVEL%2BPOINT%2BOF%2BSALE%2BAPPS%25281%2529.png"
+      alt="aplikasi toko keren"
+      src="https://1.bp.blogspot.com/-T1NxDFIyLCE/XvJpNxP_E_I/AAAAAAAAKVM/Xr4Q808NX8033Dn3cr5elESI2lRNoy2rwCK4BGAsYHg/s1349/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2B%25281%2529.png"
     />
     <p>
-      Setelah mendaftarkan user pengguna dan karyawan staff kini kita dapat
-      beralih ke supplier untuk mendaftarkan supplier pada menu ini, klik add
-      supplier dan isikan data sesuai ID pemasok anda disini. fungsi dari
-      supplier ini agar memudahkan kita untuk melakukan pesanan pembelian dan
-      pembelian ke supplier via PO menu dan mempercepat nantinya dalam pencarian
-      supplier.
+      Nikmati sensasi bekerja dengan cool apps ini, tampilan display yang keren
+      menjadikan kemewahaan akan UI dan juga via berbagai dukungan bootstrap
+      framewrok menyempurnakan untuk akses multi device pada tampilan desktop
+      maupun mobile view , cukup mudah dalam bekerja via transaksi kasir ini,
+      cukup klik karyawan atau staff kasir selanjutnya pilih menu kategori dan
+      nantinya system akan menampilkan detail keseluruhan dari produk
+      berdasarkan kategori dan klik produk untuk memasukan transaksi.
+    </p>
+    <p>
+      Lakukan pembayaran pelanggan, dengan pilihan metode pembayaran cash card
+      ataupun digital payment menyempurnakan kebutuhan include dengan print out
+      receipt struk print kasir untuk bukti transaksi.
     </p>
   </div>
 );

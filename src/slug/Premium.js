@@ -4,7 +4,7 @@ const Premium = () => (
   <div>
     <h2 className="p-1 bg-danger text-white">Premium</h2>
     <hr />
-    Lava Apps
+    Dexopos Apps
     <hr />
     Free domain .com
     <hr />
@@ -20,7 +20,9 @@ const Premium = () => (
     <hr />
     Layanan Konsultasi
     <hr />
-    Rp.3.264.800/<small>Years</small>
+    <strong>
+      Rp.3.264.800/<small>Years</small>
+    </strong>
   </div>
 );
 

@@ -7,8 +7,8 @@ const Kons = () => (
         <div className="p-3 p-md-5 border text-center">
           <h3>Order Now</h3>
           <p>
-            Segera update dan upgrade pembukuan anda dengan aplikasi kasir toko
-            grosir eceran retail include website modern untuk usaha anda.
+            Dan kini saat nya menggunakan layanan laravel app untuk masa depan
+            terbaik bagi usaha dan bisnis.
           </p>
           <Link to="/order" className="btn btn-danger">
             Order Now

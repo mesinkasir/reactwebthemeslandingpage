@@ -5,14 +5,10 @@ const Login = () => (
     <img
       className="img-fluid"
       alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-I-I7CsP5WGg/X0Xg7PqVslI/AAAAAAAALTo/wQz7XmNEarcJJSsTQtjXdWQQMv_VYuh7ACLcBGAsYHQ/s1366/Screenshot_2020-08-25%2BLAVA%2B-%2BLaravel%2BPoint%2BOf%2BSale.png"
+      src="https://1.bp.blogspot.com/-VqAvX8jlM2w/XvJpSIuBMpI/AAAAAAAAKVw/I6fwpROlt8wafObJqwdwUpaKCPRaRfVwgCK4BGAsYHg/s1349/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2Bwp.jpg"
     />
     <p>
-      Login area untuk akses masuk ke aplikasi toko kasir ini, terproteksi
-      dengan tiga lapisan keamanan untuk security web apps, kunci user name dan
-      password applikasi, database , host yang di kawal oleh letsnecnrypt dan
-      cloudflare berdasarkan kebutuhan security kemanan aplikasi agar dapat aman
-      dan nyaman digunakan oleh pengguna.
+    Hadir dengan fitur login page area untuk kemananan dan akses via aplikasi ini dengan username dan password dalam aktivitas bekerja, dengan tingkat keamanan berlapis mulai dari username dan password pada aplikasi, database dan cloud host , hingga dukungan cloudflare lets encrypt semakin nyaman dan aman dalam menggunakan <a href="/">aplikasi toko</a> ini untuk bekerja pada online.
     </p>
   </div>
 );

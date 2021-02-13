@@ -14,26 +14,32 @@ const Aloha = () => (
           <h1 className="display-2">
             <strong>
               <a href="/" className="text-danger">
-                Laravel Point of Sale
+                Laravel Apps
               </a>
             </strong>
           </h1>
-          <h3>Point of sale cashier with laravel php artisan.</h3>
+          <h3>
+            Aplikasi kasir toko shop store dan restoran cafe rumah makan dengan
+            laravel php artisan.
+          </h3>
           <p>
-            Mesin kasir online, sebuah aplikasi toko kasir dengan kemampuan
-            penjualan grosir dan eceran dalam kebutuhan transaksi dan pembukuan
-            usaha. Lava apps memungkinkan kita untuk memudahkan segala nya,
-            dengan fitur lengkap dan mudah digunakan desain yang elegan dan
-            mewah menjadikan kesempurnaan sebuah web app technology.
+            Mudahkan segala urursan dengan laravel apps sebuah technology modern
+            website applikasi untuk kebutuhan pembukuan dan mempercepat
+            transaksi include website untuk media promo online bagi bisnis dan
+            usaha mu.
           </p>
-          <Link to="/toko" className="btn btn-primary border border-white">
-            Get Started
-          </Link>
+          <p>Pelajari dan download e-catalaog dibawah ini</p>
           <a
-            href="https://mesinkasir.github.io/e-catalog/lavaapp.pdf"
+            href="https://mesinkasir.github.io/e-catalog/dexopos%20shop.pdf"
+            className="btn btn-primary border border-white"
+          >
+            Retail
+          </a>
+          <a
+            href="https://mesinkasir.github.io/e-catalog/dexoposrestoapps.pdf"
             className="btn btn-danger border border-white"
           >
-            Download
+            Resto
           </a>
         </div>
       </div>

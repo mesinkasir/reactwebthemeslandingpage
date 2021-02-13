@@ -1,17 +1,17 @@
 import React from "react";
-const Kasirdemo = () => (
+const Phone = () => (
   <div>
-    <div className="embed-responsive embed-responsive-21by9 shadow rounded">
+    <div className="embed-responsive embed-responsive-16by9 shadow rounded">
       <iframe
         title="aplikasi kasir toko grosir dan eceran"
         className="embed-responsive-item"
-        src="https://www.youtube.com/embed/kjDh1BhSvz0"
+        src="https://www.youtube.com/embed/-tUL6C1IIJI"
         allowFullScreen
       />
     </div>
-    <p>Dekstop version demo</p>
+    Waiters mobile apps demo
     <hr />
   </div>
 );
 
-export default Kasirdemo;
+export default Phone;

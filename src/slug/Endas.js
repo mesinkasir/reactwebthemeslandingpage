@@ -5,7 +5,7 @@ const Endas = () => (
   <div className="row">
     <div className="col-12 bg-danger p-3 p-md-3 text-center">
       <Link to="/" className="text-white">
-        Lava Web Apps
+        Laravel App
       </Link>
       <br />
       <button
@@ -47,7 +47,7 @@ const Endas = () => (
               <br />
               Home
             </Link>
-            <Link className="nav-link text-danger" to="/toko">
+            <Link className="nav-link text-danger" to="/resto">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -59,9 +59,9 @@ const Endas = () => (
                 <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09zM4.157 8.5H7a.5.5 0 0 1 .478.647L6.11 13.59l5.732-6.09H9a.5.5 0 0 1-.478-.647L9.89 2.41 4.157 8.5z" />
               </svg>
               <br />
-              Start
+              Resto
             </Link>
-            <Link className="nav-link text-danger" to="/kasir">
+            <Link className="nav-link text-danger" to="/toko">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -73,7 +73,7 @@ const Endas = () => (
                 <path d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5zM3 4.5a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7zm2 0a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7zm2 0a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7zm2 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5h-1a.5.5 0 0 1-.5-.5v-7zm3 0a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7z" />
               </svg>
               <br />
-              Aplikasi
+              Shop
             </Link>
             <Link className="nav-link text-danger" to="/website">
               <svg

@@ -10,7 +10,7 @@ const Order = () => (
       <Price />
     </div>
     <div className="col-12 col-md-4 p-3">
-      <div className="p-3 p-md-5 bg-light text-center">
+      <div className="p-3 p-md-5 text-center">
         <Basic />
       </div>
     </div>

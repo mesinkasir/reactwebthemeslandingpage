@@ -7,6 +7,9 @@ import Aplikasitoko from "./Aplikasitoko";
 import Demo from "./Demo";
 import Layanan from "./Layanan";
 import Web from "./Web";
+import Cafe from "./Cafe";
+import Resto from "./Resto";
+import Bioskop from "./Bioskop";
 const Main = () => (
   <main className="lead">
     <Switch>
@@ -17,6 +20,9 @@ const Main = () => (
       <Route exact path="/video" component={Demo} />
       <Route exact path="/order" component={Layanan} />
       <Route exact path="/website" component={Web} />
+      <Route exact path="/resto" component={Resto} />
+      <Route exact path="/cafe" component={Cafe} />
+      <Route exact path="/bioskop" component={Bioskop} />
     </Switch>
   </main>
 );

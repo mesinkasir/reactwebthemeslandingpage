@@ -4,15 +4,15 @@ const Datas = () => (
   <div>
     <img
       className="img-fluid"
-      alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-ncfRHenecZU/X0XhAG5IexI/AAAAAAAALUw/CXOmmmdpHTAyQAEPryAXGGpQPo0N5kJ-QCLcBGAsYHQ/s876/user.png"
+      alt="aplikasi kasir toko"
+      src="https://1.bp.blogspot.com/-NzRld8bYcHs/XvJpPAeGzpI/AAAAAAAAKVc/VZRTRaOxZKwZKy2EjfX8hUS8uQdtk-65ACK4BGAsYHg/s1366/aplikasi%2Bkasir%2Btoko%2Bpenjualan%2Bonline%2Bterbaru%2Bkeren%2B%25282%2529.png"
     />
     <p>
-      Pada awal langkah terbaik adalah mendaftarkan dan membuat database
-      terlebih dahulu , agar memudahkan digunakan dalam bertransaksi nanti nya,
-      untuk awal bisa akses pada user account untuk membuat dan mendaftarkan
-      pengguna atau staff yang bertugas dalam aplikasi ini include dengan
-      password login dan kuasa atau akses sesuai dengan jabatan user .
+      Database untuk kemudahan dalam pendaftaran atau regristasi user account
+      login dengan jabatan nya, staff karyawan atau kasir , kategori grouping
+      produk , produk dengan fitur kemampuan upload foto produk , tersedia pada
+      fitur database untuk menujang pembukuan dan transaksi cepat kasir online
+      mu.
     </p>
   </div>
 );

@@ -13,18 +13,13 @@ const Sikil = () => (
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
+            <Link to="/resto" className="text-danger">
+              Resto
+            </Link>
+          </li>
+          <li className="breadcrumb-item active" aria-current="page">
             <Link to="/toko" className="text-danger">
-              Start
-            </Link>
-          </li>
-          <li className="breadcrumb-item active" aria-current="page">
-            <Link to="/kasir" className="text-danger">
-              Aplikasi
-            </Link>
-          </li>
-          <li className="breadcrumb-item active" aria-current="page">
-            <Link to="/video" className="text-danger">
-              Demo
+              Shop
             </Link>
           </li>
           <li className="breadcrumb-item active" aria-current="page">
@@ -47,6 +42,11 @@ const Sikil = () => (
     </div>
     <div className="col-12 text-center border-top p-3">
       <small>
+        copyrights{" "}
+        <a href="https://laravelapp.vercel.app/" className="text-danger">
+          laravelapp.vercel.app
+        </a>
+        <br />
         Present by{" "}
         <a href="https://axcora.com/getaxcoracms" className="text-danger">
           get axcora.

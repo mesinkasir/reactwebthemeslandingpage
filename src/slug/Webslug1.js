@@ -5,7 +5,7 @@ const Webslug1 = () => (
       <h1>
         <strong>
           <a href="/" className="text-danger">
-            Website
+            New Modern Website
           </a>
         </strong>
       </h1>
@@ -20,11 +20,14 @@ const Webslug1 = () => (
     <div className="col-12 col-md-8 p-3">
       <div className="p-3 p-md-5">
         <p>
-          Dan inilah all in one solusi terbaik untuk website aplikasi anda,
-          dengan aplikasi lava apps dalam kebutuhan untuk pembukuan ndan
-          mempercepat transaksi kasir, plus bonus pembuatan website modern
-          terbaru informasi sebagai icon usaha anda di dunia online net.
-          menyempurnakan web app lava apps dalam digunakan.
+          Nikmati layanan website informasi untuk usaha kuliner mu, dengan
+          mengguanakan layan laravel web app , menjadikan kesempurnaan dalam
+          bekerja dengan website sebagai icon usaha di dunia online net
+          sekaligus media promosi marketing digital dan tentunya aplikasi untuk
+          menunjang pekerjaan .
+        </p>
+        <p>
+Layanan pembuatan website dengan mutliple technology untuk kebutuhan <a href="/">pembuatan website restoran cafe rumah makan</a> mu.
         </p>
         <p>
           Tersedia variant penunjang dalam develope website sesuai dengan

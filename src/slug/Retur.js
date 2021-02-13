@@ -1,21 +1,35 @@
 import React from "react";
 const Retur = () => (
-  <div>
-    <img
-      className="img-fluid"
-      alt="aplikasi toko kasir grosir dan eceran"
-      src="https://1.bp.blogspot.com/-ANgUAXXKvZE/X0Xg-4kqTHI/AAAAAAAALUg/5x0tfNuMdfYKu8Zo-HBQOJrqjUg_he5fwCLcBGAsYHQ/s1366/Screenshot_2020-08-25%2BLAVA%2BLARAVEL%2BPOINT%2BOF%2BSALE%2BAPPS%25288%2529.png"
-    />
-    <p>
-      Untuk kebutuhan retur penjualan sudah tersedia dengan mudahnya dalam
-      kebutuhan untuk handling kebutuhan pengembalian produk dari pelanggan
-      pembeli anda, nah disini tinggal klik saja menu retur dan masukan no nota
-      , selanjutnya secara otomatis system akan menampilkan detail transaksi
-      berdasarkan no nota tersebut, dan pilih retur kemudian ekseskusi dengan
-      menekan tombol aply untuk menyetujui proses retur ini, secara otomatis
-      semua akan direkam pada system dan dikembalikan ke stok awal serta
-      keuangan lain nya.
-    </p>
+  <div className="row">
+    <div className="col-4 col-md-4 p-3">
+      <img
+        className="img-fluid"
+        alt="aplikasi restoran cafe rumah makan mesin kasir online kuliner"
+        src="https://1.bp.blogspot.com/-3REav6ayh5c/Xsa96rugvsI/AAAAAAAAJk4/83dNLxspZsgpE-S3FsaBB3d6Lk_zo6s1QCK4BGAsYHg/receipt%2Bprint.png"
+      />
+    </div>
+    <div className="col-4 col-md-4 p-3">
+      <img
+        className="img-fluid"
+        alt="aplikasi restoran cafe rumah makan mesin kasir online kuliner"
+        src="https://1.bp.blogspot.com/-4CsjqFH-aiI/Xsa97duPS-I/AAAAAAAAJk8/92NtJLFj7QUptFMAX7mqulObw3_yvri1wCK4BGAsYHg/reports.png"
+      />
+    </div>
+    <div className="col-4 col-md-4 p-3">
+      <p>
+        Setelah melakukan penjualan dan handling pesanan pelanggan maka anda
+        juga dapat mencetak bukti transaksi dengan melakukan print out jika
+        dibutuhkan sebagai arsip dan struk kasir penjualan. tinggal klik tombol
+        print maka secara otomatis system akan melakukan print bukti transaksi
+        penjualan.
+      </p>
+      <p>
+        Dan tentu semua akan di rangkum dalam laporan laporan detail untuk
+        kemudahan dalam cek income profit berdasarkan tanggal awal dan akhir
+        sesuai dengan kebutuhan untuk audit usaha kuliner restoran cafe rumah
+        makan .
+      </p>
+    </div>
   </div>
 );
 

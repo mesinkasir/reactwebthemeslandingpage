@@ -4,7 +4,7 @@ const Standard = () => (
   <div>
     <h2 className="p-1 bg-danger text-white">Standard</h2>
     <hr />
-    Lava Apps
+    Dexopos Apps
     <hr />
     Free domain .com
     <hr />
@@ -18,7 +18,9 @@ const Standard = () => (
     <hr />
     Layanan Konsultasi
     <hr />
-    Rp.1.561.200/<small>Years</small>
+    <strong>
+      Rp.1.561.200/<small>Years</small>
+    </strong>
   </div>
 );
 

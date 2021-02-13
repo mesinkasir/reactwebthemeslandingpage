@@ -5,10 +5,11 @@ const Admindemo = () => (
       <iframe
         title="aplikasi kasir toko grosir dan eceran"
         className="embed-responsive-item"
-        src="https://www.youtube.com/embed/a5pVkOt6oJ0"
+        src="https://www.youtube.com/embed/N2HsAaB-nJU"
         allowFullScreen
       />
     </div>
+    <p>All in desktop dan mobile waiters demo.</p>
   </div>
 );
 

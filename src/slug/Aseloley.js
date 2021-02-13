@@ -5,17 +5,16 @@ const Aseloley = () => (
     <div className="col-12 col-md-12 p-3 text-center">
       <div className="bg-danger text-white rounded p-3 p-md-5">
         <h3>
-          <strong>Lava Web Apps</strong>
+          <strong>Modern Website</strong>
         </h3>
-        <p>All in one website dan aplikasi dengan lava apps.</p>
+        <p>Include modern website domain dan cloud host.</p>
         <p>
-          Nikmati bertransaksi dan cek pembukuan secara online dimana saja dan
-          kapan saja , include dengan website untuk media marketing digital
-          online , all in one pencatatan pembukuan dan mempercepat transaksi via
-          aplikasi kasir toko online dan website sebagai icon usaha di net.
+          Bukan sekedar applikasi kasir penjualan online tetapi include dengan
+          website plus nama domain usaha dan cloud hosting sebagai symbol dan
+          icon bisnis di dunia online sekaligus media promo marketing digital.
         </p>
-        <Link to="/contact" className="btn btn-light">
-          Contact Us
+        <Link to="/website" className="btn btn-light">
+          More Info
         </Link>
       </div>
     </div>

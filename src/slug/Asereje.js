@@ -5,15 +5,14 @@ const Asereje = () => (
     <div className="col-12 col-md-6 p-3 text-center">
       <div className="bg-danger text-white rounded p-3 p-md-5">
         <h3>
-          <strong>Kasir Apps</strong>
+          <strong>Toko Apps</strong>
         </h3>
-        <p>Sebuah Aplikasi kasir online.</p>
+        <p>Aplikasi kasir toko shop srtore retail online.</p>
         <p>
-          Dengan installasi online clouds memungkinkan anda bekerja dengan
-          berbagai device smartphone android iphone hingga mesin kasir dekstop
-          laptop dalam kebutuhan nya.
+          Terbaik untuk kebutuhan mesin kasir online retail shop store dan
+          outlet dengan simple dan lengkap system yang digunakan.
         </p>
-        <Link to="/kasir" className="btn btn-light">
+        <Link to="/toko" className="btn btn-light">
           More Info
         </Link>
       </div>
@@ -21,15 +20,14 @@ const Asereje = () => (
     <div className="col-12 col-md-6 p-3 text-center">
       <div className="bg-danger text-white rounded p-3 p-md-5">
         <h3>
-          <strong>Modern Website</strong>
+          <strong>Resto Apps</strong>
         </h3>
-        <p>Include modern website untuk usaha.</p>
+        <p>Aplikasi restoran cafe rumah makan online.</p>
         <p>
-          Include layanan pembuatan website dengan nama domain usaha anda
-          sendiri untuk saran promosi dan sekaligus icon usaha di dunia online
-          net menyempurnakan web app ini.
+          Kemudahan bertransaksi dengan dukungan mobile waiters dalam bekerja
+          untuk usaha kuliner.
         </p>
-        <Link to="/website" className="btn btn-light">
+        <Link to="/resto" className="btn btn-light">
           More Info
         </Link>
       </div>
