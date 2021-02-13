@@ -41,10 +41,14 @@ Navbar header menu
 
 Develope using react and bootstrap
 
-By default we have develope 6 page
+By default we have develope 10 page
 + Home page area
-+ Start page area
-+ App info area
++ Menu one Area
++ Menu two area
++ Menu one information
++ Menu two information
++ Galerry video menu one
++ Galerry video menu two
 + Website info area 
 + Order Area
 + Contact Page Area
@@ -52,6 +56,12 @@ By default we have develope 6 page
 Navbar header menu
 
 Footer breadcumb
+
+--------------------------------------------------------------
+
+Tips for configuration SEO on this react website
+
+[https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html](https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html)
 
 ------------------------------------------------------------
 
