@@ -7,6 +7,10 @@ import Kitchen3 from "./slug/Kitchen3";
 const Resto = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Aplikasi Restoran Cafe Rumah makan</title>
       <meta
         name="description"

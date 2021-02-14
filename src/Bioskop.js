@@ -7,6 +7,10 @@ import Kons from "./slug/Kons";
 const Bioskop = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Keren nya aplikasi restoran ini lihat video nya disini</title>
       <meta
         name="description"

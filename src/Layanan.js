@@ -8,6 +8,10 @@ import Price from "./slug/Price";
 const Order = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Daftar harga price list mesin kasir online</title>
       <meta
         name="description"

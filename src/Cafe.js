@@ -10,6 +10,10 @@ import Laporan from "./slug/Laporan";
 const Cafe = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Lihat cara penggunaan Aplikasi Restoran</title>
       <meta
         name="description"

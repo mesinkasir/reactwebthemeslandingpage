@@ -7,6 +7,10 @@ import Kons from "./slug/Kons";
 const Demo = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Begini nih cara menggunakan aplikasi toko</title>
       <meta
         name="description"

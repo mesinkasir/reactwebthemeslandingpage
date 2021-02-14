@@ -11,6 +11,10 @@ import Yuk from "./slug/Yuk";
 const Kasir = () => (
   <div>
     <Helmet>
+      <meta
+        name="google-site-verification"
+        content="ex4TnhMimzJT8jbjjo3HU_r-qfQczMhdYfALH1gyM2s"
+      />
       <title>Fitur aplikasi toko software program toko</title>
       <meta
         name="description"
