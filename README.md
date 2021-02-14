@@ -57,6 +57,15 @@ Navbar header menu
 
 Footer breadcumb
 
+------------------------------------------------------------------
+
+Update New : 
++ SEO optimation ready with helmet
++ Title page
++ Description Page
++ Facebook Card
++ Twitter Card
+
 --------------------------------------------------------------
 
 Tips for configuration SEO on this react website
