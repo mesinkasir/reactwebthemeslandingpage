@@ -95,7 +95,7 @@ Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
 -------------------------------------------------------------
 
-### Buy me a coffee :hearts
+### Buy me a coffee :hearts:
 
 :coffee: 
 
