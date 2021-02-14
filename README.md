@@ -66,6 +66,10 @@ Update New :
 + Facebook Card
 + Twitter Card
 
+Screen shoot SEO tag on another react page
+
+![SEO react](https://1.bp.blogspot.com/-oHfRV4Roz0c/YCku94cb72I/AAAAAAAAJ_I/2Qi7dH-0oKEYzbB7q_7uS02eNuwjKdNxgCLcBGAsYHQ/s16000/seo%2Breact.png)
+
 --------------------------------------------------------------
 
 Tips for configuration SEO on this react website
@@ -97,7 +101,7 @@ Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
 ### Buy me a coffee :hearts:
 
-:coffee: 
+:coffee: :coffee: :coffee: 
 
 with moneygram or western union
 
