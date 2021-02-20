@@ -1,13 +1,13 @@
-# React Website themes template free download with SEO :D
+# React Website themes template free download with SEO ✔️
 
-Test demo [https://laravelapp.vercel.app/](https://laravelapp.vercel.app/)
+ 👉🏻Test demo [https://laravelapp.vercel.app/](https://laravelapp.vercel.app/) ✔️
 
-Dark Mode Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/)
+🧛 Dark Mode Premium test drive here [https://lavapos.vercel.app/](https://lavapos.vercel.app/) ✔️
 
-Documentation installation and live source code 
+👩🏻‍🎓 Documentation installation and live source code  
 [https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html](https://www.hockeycomputindo.com/2021/02/bootstrap-react-free-download-website.html)
 
-Video demo [play video](https://youtu.be/JoV7xBUvVfU)
+🎥 Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
 -----------------------------------------------
 
@@ -99,7 +99,7 @@ Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
 -------------------------------------------------------------
 
-### Buy me a coffee :hearts:
+### Buy me a coffee :hearts: ✌🏻
 
 :coffee: :coffee: :coffee: 
 
