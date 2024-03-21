@@ -9,6 +9,26 @@
 
 🎥 Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
+----------------------------------------
+
+### 💖 Thanks for Sponsor 🤞
+
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)
+
+----------------------------------------
+
+### 🥇 Supporter 👨🏻‍🚀
+
+[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett)
+
+-----------------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+
+
 -----------------------------------------------
 
 Display
@@ -99,13 +119,8 @@ Video demo [play video](https://youtu.be/JoV7xBUvVfU)
 
 -------------------------------------------------------------
 
-### Buy me a coffee :hearts: ✌🏻
 
-:coffee: :coffee: :coffee: 
+### Buy me a coffee ☕️ ❤️  ✌🏻 
 
-with moneygram or western union
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
 
-+ BANK CENTRAL ASIA
-+ ACCOUNT NO : 0181884109
-+ ACCOUNT NAME : SUCI CHANIFAH
-+ IBAN/SWIFT CODE : CENAIDJA
